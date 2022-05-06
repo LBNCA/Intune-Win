@@ -4,7 +4,7 @@
     <version>12.0.0.0</version>
     <date-created>05/06/2022 10:33:46</date-created>
   </created-by>
-  <site url="https://citizensadviceipos.sapphire-cloud.net:8443/iPOS/Web/Login.aspx">
+  <site url="citizensadviceipos.sapphire-cloud.net:8443/iPOS/Web/Login.aspx">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
