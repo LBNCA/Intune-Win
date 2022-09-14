@@ -1,14 +1,18 @@
-<site-list version="2">
+<site-list version="3">
   <created-by>
     <tool>EMIESiteListManager</tool>
     <version>12.0.0.0</version>
-    <date-created>05/09/2022 11:54:49</date-created>
+    <date-created>09/14/2022 11:55:15</date-created>
   </created-by>
   <site url="citizensadviceipos.sapphire-cloud.net:8443/iPOS/Web/Login.aspx">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
   <site url="citizensadviceipos.sapphire-cloud.net:8443">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="citizensadviceipos.sapphire-cloud.net/iPOS/Web/Login.aspx">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
